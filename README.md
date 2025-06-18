@@ -1,5 +1,5 @@
-# LaboratorioCalificado03-ProgMov
-#  Laboratorio Calificado 03 - Android con Kotlin
+
+#  Laboratorio Calificado 03 -
 
 Proyecto desarrollado como parte del curso de Desarrollo de Aplicaciones Móviles, cuyo objetivo es consumir un servicio HTTP y mostrar una lista de docentes con sus datos mediante una interfaz moderna y responsiva en Android.
 
@@ -30,6 +30,10 @@ Además, se implementan dos funcionalidades:
 - Glide (para carga de imágenes)
 - RecyclerView (para la lista)
 - ViewBinding (para una mejor interacción con las vistas)
+
+
+![image](https://github.com/user-attachments/assets/b61e14ba-35dc-477a-8645-d777594cb8e7)
+![image](https://github.com/user-attachments/assets/dc5ad432-ae36-4c63-aed8-48879a3ccf23)
 
 
 
