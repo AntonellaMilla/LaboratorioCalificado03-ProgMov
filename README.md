@@ -1,9 +1,9 @@
 # LaboratorioCalificado03-ProgMov
-# 📚 Laboratorio Calificado 03 - Android con Kotlin
+#  Laboratorio Calificado 03 - Android con Kotlin
 
 Proyecto desarrollado como parte del curso de Desarrollo de Aplicaciones Móviles, cuyo objetivo es consumir un servicio HTTP y mostrar una lista de docentes con sus datos mediante una interfaz moderna y responsiva en Android.
 
-## ✅ Objetivo
+##  Objetivo
 
 Consumir el endpoint:
 
@@ -20,9 +20,9 @@ Además, se implementan dos funcionalidades:
 - Clic simple: realiza una llamada al número del docente.
 - Clic largo: abre el correo para escribir al docente.
 
----
 
-## 🛠️ Tecnologías usadas
+
+##  Tecnologías usadas
 
 - Kotlin
 - Android SDK (API 24+)
@@ -31,7 +31,5 @@ Además, se implementan dos funcionalidades:
 - RecyclerView (para la lista)
 - ViewBinding (para una mejor interacción con las vistas)
 
----
 
-## 📂 Estructura del Proyecto
 
